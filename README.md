@@ -1,10 +1,5 @@
 # Lightweight Web Server 
 
-*`updated 21 April 2022`*
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flightweight-web-server&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![picture](screenshots/screenshot1.png)
 
 ***
 
@@ -134,7 +129,3 @@ I'm much more willing to collaborate with you!
 ## License
 
 MIT- the permissive license
-
-## TO DO
-1. I still want to add a GUI, so
-that this will be user-friendly
